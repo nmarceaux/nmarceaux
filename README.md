@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nmarceaux
 - 👀 I’m interested in DS, ML
 - 🌱 I’m currently learning Data Stuctures & Algorithms
-- 💞️ I’m looking to collaborate on applications for edcuation technology
+- 💞️ I’m looking to collaborate on applications for education technology
 - 📫 How to reach me: nathanmarceaux@gmail.com
 
 <!---
